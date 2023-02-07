@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories https://imgur.com/gallery/nExpoMY:
+Here's a walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/LZvZMMO22Whruo2F7H/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
